@@ -1,12 +1,7 @@
-const isProd = process.env.NODE_ENV === 'production';
-
+/** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
-  basePath: isProd ? '/alextolk' : '',
-  assetPrefix: isProd ? '/alextolk/' : '',
-  images: {
-    unoptimized: true,
-  },
+  output: 'standalone', // enables SSR
 };
 
 module.exports = nextConfig;
+
