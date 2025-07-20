@@ -1,5 +1,5 @@
 import { useState, useRef, useEffect } from 'react';
-import { Globe, ChevronDown } from 'lucide-react';
+import { ChevronDown } from 'lucide-react';
 
 interface LanguageSwitcherProps {
   currentLocale: string;

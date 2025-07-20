@@ -1,7 +1,6 @@
 import '../../../styles/globals.css';
 import Navbar from '../../components/Navbar';
 import {NextIntlClientProvider} from 'next-intl';
-import {getTranslations} from 'next-intl/server';
 import {notFound} from 'next/navigation';
 import {routing} from '@/i18n/routing';
 
