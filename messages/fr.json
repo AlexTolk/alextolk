@@ -1,0 +1,35 @@
+{
+  "navbar": {
+    "home": "Accueil",
+    "projects": "Projets",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Salut, je suis Alexander Tolkachev",
+    "tagline": "Développeur Multilingue & Professeur de Langues",
+    "description": "Je crée des expériences web élégantes et internationales. Maîtrise du code et de 6 langues.",
+    "cta": "Voir Mon Travail"
+  },
+  "projects": {
+    "title": "Projets",
+    "description": "Voici quelques-uns des projets sur lesquels j'ai récemment travaillé.",
+    "viewRepo": "Voir le Dépôt",
+    "liveDemo": "Démo en Direct"
+  },
+  "resume": {
+    "title": "CV",
+    "description": "Téléchargez mon CV pour en savoir plus sur mon expérience et mes compétences.",
+    "download": "Télécharger le CV"
+  },
+  "contact": {
+    "title": "Contactez-moi",
+    "name": "Votre Nom",
+    "email": "Votre Email",
+    "message": "Votre Message",
+    "send": "Envoyer le Message",
+    "success": "Merci ! Votre message a été envoyé."
+  },
+  "languageSwitcher": {
+    "label": "Choisir la Langue"
+  }
+}
